@@ -1,0 +1,12 @@
+numpy 
+pandas
+scikit-learn
+matplotlib
+seaborn
+scipy
+joblib
+nltk
+streamlit
+flask
+sqlalchemy
+flask_sqlalchemy
